@@ -1,0 +1,57 @@
+Sun, 27 Oct 2019 20:34:15 INFO     Made tf-idf dataframe
+Sun, 27 Oct 2019 20:36:06 INFO     Made tf-idf dataframe
+Sun, 27 Oct 2019 20:36:58 INFO     Made tf-idf dataframe
+Sun, 27 Oct 2019 20:41:23 INFO     Made bm25 dataframe
+Sun, 27 Oct 2019 20:48:14 INFO     Made tf-idf dataframe
+Sun, 27 Oct 2019 20:48:58 INFO     Made bm25 dataframe
+Sun, 27 Oct 2019 20:50:22 INFO     Made tf-idf dataframe
+Sun, 27 Oct 2019 20:51:08 INFO     Made bm25 dataframe
+Sun, 27 Oct 2019 20:55:08 INFO     Made tf-idf dataframe
+Sun, 27 Oct 2019 20:55:30 INFO     Made tf-idf dataframe
+Sun, 27 Oct 2019 20:56:15 INFO     Made bm25 dataframe
+Sun, 27 Oct 2019 20:56:15 INFO     loading Word2VecKeyedVectors object from model.model
+Sun, 27 Oct 2019 20:56:15 INFO     loading vectors_vocab from model.model.vectors_vocab.npy with mmap=None
+Sun, 27 Oct 2019 20:56:16 INFO     loading vectors_ngrams from model.model.vectors_ngrams.npy with mmap=None
+Sun, 27 Oct 2019 20:57:22 INFO     loading vectors from model.model.vectors.npy with mmap=None
+Sun, 27 Oct 2019 20:57:26 INFO     setting ignored attribute vectors_vocab_norm to None
+Sun, 27 Oct 2019 20:57:26 INFO     setting ignored attribute buckets_word to None
+Sun, 27 Oct 2019 20:57:26 INFO     setting ignored attribute vectors_norm to None
+Sun, 27 Oct 2019 20:57:26 INFO     setting ignored attribute vectors_ngrams_norm to None
+Sun, 27 Oct 2019 20:57:26 INFO     loaded model.model
+Sun, 27 Oct 2019 20:57:26 INFO     Made fasttext dataframe
+Sun, 27 Oct 2019 20:59:06 INFO     Made tf-idf dataframe
+Sun, 27 Oct 2019 20:59:50 INFO     Made bm25 dataframe
+Sun, 27 Oct 2019 20:59:50 INFO     loading Word2VecKeyedVectors object from model.model
+Sun, 27 Oct 2019 20:59:51 INFO     loading vectors_vocab from model.model.vectors_vocab.npy with mmap=None
+Sun, 27 Oct 2019 20:59:52 INFO     loading vectors_ngrams from model.model.vectors_ngrams.npy with mmap=None
+Sun, 27 Oct 2019 21:00:36 INFO     loading vectors from model.model.vectors.npy with mmap=None
+Sun, 27 Oct 2019 21:00:40 INFO     setting ignored attribute vectors_vocab_norm to None
+Sun, 27 Oct 2019 21:00:40 INFO     setting ignored attribute buckets_word to None
+Sun, 27 Oct 2019 21:00:40 INFO     setting ignored attribute vectors_norm to None
+Sun, 27 Oct 2019 21:00:40 INFO     setting ignored attribute vectors_ngrams_norm to None
+Sun, 27 Oct 2019 21:00:40 INFO     loaded model.model
+Sun, 27 Oct 2019 21:00:40 INFO     Made fasttext dataframe
+Sun, 27 Oct 2019 21:01:22 INFO     Made tf-idf dataframe
+Sun, 27 Oct 2019 21:02:07 INFO     Made bm25 dataframe
+Sun, 27 Oct 2019 21:02:07 INFO     loading Word2VecKeyedVectors object from model.model
+Sun, 27 Oct 2019 21:02:07 INFO     loading vectors_vocab from model.model.vectors_vocab.npy with mmap=None
+Sun, 27 Oct 2019 21:02:08 INFO     loading vectors_ngrams from model.model.vectors_ngrams.npy with mmap=None
+Sun, 27 Oct 2019 21:03:02 INFO     loading vectors from model.model.vectors.npy with mmap=None
+Sun, 27 Oct 2019 21:03:04 INFO     setting ignored attribute vectors_vocab_norm to None
+Sun, 27 Oct 2019 21:03:04 INFO     setting ignored attribute buckets_word to None
+Sun, 27 Oct 2019 21:03:04 INFO     setting ignored attribute vectors_norm to None
+Sun, 27 Oct 2019 21:03:04 INFO     setting ignored attribute vectors_ngrams_norm to None
+Sun, 27 Oct 2019 21:03:04 INFO     loaded model.model
+Sun, 27 Oct 2019 21:03:04 INFO     Made fasttext dataframe
+Sun, 27 Oct 2019 21:04:03 INFO     Made tf-idf dataframe
+Sun, 27 Oct 2019 21:04:48 INFO     Made bm25 dataframe
+Sun, 27 Oct 2019 21:04:49 INFO     loading Word2VecKeyedVectors object from model.model
+Sun, 27 Oct 2019 21:04:49 INFO     loading vectors_vocab from model.model.vectors_vocab.npy with mmap=None
+Sun, 27 Oct 2019 21:04:50 INFO     loading vectors_ngrams from model.model.vectors_ngrams.npy with mmap=None
+Sun, 27 Oct 2019 21:05:31 INFO     loading vectors from model.model.vectors.npy with mmap=None
+Sun, 27 Oct 2019 21:05:33 INFO     setting ignored attribute vectors_vocab_norm to None
+Sun, 27 Oct 2019 21:05:33 INFO     setting ignored attribute buckets_word to None
+Sun, 27 Oct 2019 21:05:33 INFO     setting ignored attribute vectors_norm to None
+Sun, 27 Oct 2019 21:05:33 INFO     setting ignored attribute vectors_ngrams_norm to None
+Sun, 27 Oct 2019 21:05:33 INFO     loaded model.model
+Sun, 27 Oct 2019 21:05:33 INFO     Made fasttext dataframe
